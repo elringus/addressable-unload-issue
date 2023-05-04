@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "com.unity.addressables": "1.21.10",
+    "com.unity.memoryprofiler": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0"
+  }
+}

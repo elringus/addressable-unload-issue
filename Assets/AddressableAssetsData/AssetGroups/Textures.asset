@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Textures
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 647272373d4d3ce499ce5289acd08080
+  m_SerializeEntries:
+  - m_GUID: a57701fc43f25f4438561463c09bcd19
+    m_Address: TextureLarge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Texture
+  - m_GUID: deb1f584047aeab4391d69bf05cf1622
+    m_Address: TextureSmall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Texture
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c4ccc00bf0464fd4c84cda6374bef95e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e8be3aa8954c50e45875b974691d39ee, type: 2}
