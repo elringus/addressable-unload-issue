@@ -16,6 +16,7 @@ As per [documentation](https://docs.unity3d.com/Packages/com.unity.addressables@
 Expected: "LargeTexture" has to be unloaded
 Actual: "LargeTexture" is still loaded, while being held only by "AssetBundle"
 
+Video: https://www.youtube.com/watch?v=tX8vrgie5N8
 
 Issue tracker case number: `IN-40196`.
 
