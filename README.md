@@ -13,8 +13,8 @@ As per [documentation](https://docs.unity3d.com/Packages/com.unity.addressables@
 7. Focus the player window and press Space key to release "LargeTexture" and invoke Resources.UnloadUnusedAssets
 8. Take memory snapshot again
 
-Expected: "LargeTexture" has to be unloaded
-Actual: "LargeTexture" is still loaded, while being held only by "AssetBundle"
+ - Expected: "LargeTexture" has to be unloaded
+ - Actual: "LargeTexture" is still loaded, while being held only by "AssetBundle"
 
 Video: https://www.youtube.com/watch?v=tX8vrgie5N8
 
