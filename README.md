@@ -1,6 +1,6 @@
 ## Description
 
-As per [documentation](https://docs.unity3d.com/Packages/com.unity.addressables@1.21/manual/runtime/MemoryManagement.html) `Resources.UnloadUnusedAssets` should unload released assets even if other assets from the same bundle are still in use, but that's not the case.
+As per [documentation](https://docs.unity3d.com/Packages/com.unity.addressables@1.21/manual/MemoryManagement.html) `Resources.UnloadUnusedAssets` should unload released assets even if other assets from the same bundle are still in use, but that's not the case.
 
 ## Repro steps
 
